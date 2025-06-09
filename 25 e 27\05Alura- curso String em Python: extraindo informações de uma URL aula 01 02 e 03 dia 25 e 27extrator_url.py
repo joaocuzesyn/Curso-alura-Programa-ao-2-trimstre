@@ -1,3 +1,4 @@
+#alura curso String em Python: extraindo informações de uma URL aula 01 02 e 03 dia 25 e 27 extrator quase completo 
 class ExtratorURL:
    #
 def __init__(self, url):
