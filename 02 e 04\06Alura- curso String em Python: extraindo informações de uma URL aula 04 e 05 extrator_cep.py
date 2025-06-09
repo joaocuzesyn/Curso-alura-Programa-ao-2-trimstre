@@ -1,5 +1,6 @@
-#
+#extrator_cep completo e finalizado 
 
+#02 e 04\06Alura- curso String em Python: extraindo informações de uma URL aula 04 e 05 
 endereco = "Rua da Flores 72, apartamento 1002, Laranjeiras, Rio de Janeiro, RJ, 23440-120"
 
 
